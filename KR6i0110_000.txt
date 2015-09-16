@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 持人菩薩經
+#+DATE: 2015-08-30 20:10:00.898058
+#+PROPERTY: JUAN 0
